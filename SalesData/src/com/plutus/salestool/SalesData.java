@@ -5,5 +5,7 @@ public class SalesData {
 	
 	public void display() {
 		System.out.println("TODO: Implement data display");
+		System.out.println("TODO: Add Style");
+		System.out.println("Change for branch 2.0");
 	}
 }
